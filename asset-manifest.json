@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Movies-react-app/static/css/main.bdc087fd.css",
+    "main.js": "/Movies-react-app/static/js/main.1ddfd7fc.js",
+    "static/media/AmazonPrimeLogo.svg": "/Movies-react-app/static/media/AmazonPrimeLogo.d7ecb1a67682972f13b8c620cbbaf62f.svg",
+    "static/media/Zee5Logo.svg": "/Movies-react-app/static/media/Zee5Logo.c61c40b20fbe3ad9f3afe196f835ab72.svg",
+    "static/media/VootLogo.svg": "/Movies-react-app/static/media/VootLogo.c07af15f2dbccc5435ac87c493c71698.svg",
+    "static/media/Netflixlogo.svg": "/Movies-react-app/static/media/Netflixlogo.5787551b8de42aef368c379572555ada.svg",
+    "static/media/JioTvIcon.svg": "/Movies-react-app/static/media/JioTvIcon.2af61a7c2819370fd5b1b1acc343c200.svg",
+    "index.html": "/Movies-react-app/index.html",
+    "main.bdc087fd.css.map": "/Movies-react-app/static/css/main.bdc087fd.css.map",
+    "main.1ddfd7fc.js.map": "/Movies-react-app/static/js/main.1ddfd7fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc087fd.css",
+    "static/js/main.1ddfd7fc.js"
+  ]
+}
